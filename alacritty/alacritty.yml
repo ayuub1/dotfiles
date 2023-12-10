@@ -1,0 +1,28 @@
+
+colors:
+  primary:
+    background: '0x1a1b26'
+    foreground: '0xc6c8d1'
+  normal:
+    black:   '0x1a1b26'
+    red:     '0xf7768e'
+    green:   '0x9ece6a'
+    yellow:  '0xe0af68'
+    blue:    '0x7aa2f7'
+    magenta: '0xc792ea'
+    cyan:    '0x7dcfff'
+    white:   '0xc6c8d1'
+  bright:
+    black:   '0x676e95'
+    red:     '0xff9e64'
+    green:   '0xa8ff60'
+    yellow:  '0xffd97a'
+    blue:    '0x4cb2ff'
+    magenta: '0xff91f9'
+    cyan:    '0x9aedfe'
+    white:   '0xe0e0e0'
+
+
+
+shell:
+  program: tmux
