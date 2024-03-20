@@ -8,7 +8,7 @@ vim.o.softtabstop = 4
 vim.o.expandtab = true
 vim.opt.whichwrap:append('<>[]')
 vim.opt.wrap = false
-vim.opt.termguicolors = true
+--vim.opt.termguicolors = true
 --
 
 if vim.opt.encoding == '' then
